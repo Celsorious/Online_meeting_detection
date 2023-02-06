@@ -24,7 +24,7 @@ void loop() {
       digitalWrite(PIN_red, 255);
       digitalWrite(PIN_green, 255);
     }
-    // Microphone connected and webcam disconnected
+    // Microphone connected and webcam connected
     if(option == '2'){
       digitalWrite(PIN_red, 255);
       digitalWrite(PIN_green, 0);
