@@ -21,6 +21,7 @@ Finally, to make the system portable, apart from the 3D model design, I built a 
 
 # Material
 -Arduino nano
+
 -LED RGB
 # 3D model
 To adjust the USB height to your laptop you need to modify the file /stl/height_usb_adjustment.STL
